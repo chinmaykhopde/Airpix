@@ -1,5 +1,6 @@
 # Airpix
 
 imt main (){
-	printf("hihhihihi");
+	printf("
+	hihhihihi");
 }
