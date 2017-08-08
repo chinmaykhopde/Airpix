@@ -5,4 +5,5 @@ imt main (){
 	hihhihihi");
 	
 	masterrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+	new
 }
